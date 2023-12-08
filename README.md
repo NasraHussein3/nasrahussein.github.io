@@ -1,6 +1,6 @@
 # Nasra Hussein's Portfolio
 
-Welcome to Nasra Hussein's portfolio! Here, you can explore my software engineering projects and learn more about my skills and experience.
+Welcome to my portfolio! Here, you can explore my software engineering projects and learn more about my skills and experience.
 
 ## Website URL
 
